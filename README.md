@@ -1,0 +1,1 @@
+# kata_event_sourcing
